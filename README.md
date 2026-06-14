@@ -1,6 +1,6 @@
 # GenAI
 
-A hands-on generative AI learning lab covering tokenization, embeddings, chat completions, agent loops, retrieval-augmented generation, LangGraph workflows, human-in-the-loop execution, memory, background queues, MCP tooling, and observability.
+A hands-on generative AI  covering tokenization, embeddings, chat completions, agent loops, retrieval-augmented generation, LangGraph workflows, human-in-the-loop execution, memory, background queues, MCP tooling, and observability.
 
 The repository is organized as small, focused examples. Each folder demonstrates one concept and keeps the code close to the underlying APIs so it is easy to study, modify, and extend.
 
